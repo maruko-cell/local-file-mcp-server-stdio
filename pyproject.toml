@@ -2,7 +2,7 @@
 name = "local-file-mcp-server-stdio"
 version = "0.1.0"
 description = "MCP server (stdio) for creating and renaming local files under a safe root."
-readme = "README.md"
+readme = "README.en.md"
 requires-python = ">=3.10"
 dependencies = [
   "mcp>=1.0.0",

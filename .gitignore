@@ -10,3 +10,6 @@ dist/
 build/
 *.egg-info/
 .DS_Store
+
+# 本地可保留，但不纳入仓库
+README.md
