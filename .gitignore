@@ -13,3 +13,4 @@ build/
 
 # 本地可保留，但不纳入仓库
 README.md
+README.zh-CN.md
